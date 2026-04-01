@@ -15,3 +15,6 @@ Este projeto simula uma análise de dados real, transformando dados brutos em in
 
 ## 📈 Exemplo de Insight Gerado
 Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos" possui o maior ticket médio, sugerindo um foco maior em campanhas de marketing para esse setor.
+
+
+![Resultado do Ranking de Produtos]Imprimir do resultado.png)
