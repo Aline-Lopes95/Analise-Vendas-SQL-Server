@@ -1,2 +1,17 @@
-# Analise-Vendas-SQL-Server
-Projeto de análise de vendas e performance utilizando SQL Server, CTEs e Window Functions.
+# Projeto: Análise de Vendas com SQL Server
+
+## 🎯 Objetivo
+Este projeto simula uma análise de dados real, transformando dados brutos em insights estratégicos para uma empresa de varejo.
+
+## 🛠️ Ferramentas Utilizadas
+- SQL Server (T-SQL)
+- SSMS (SQL Server Management Studio)
+
+## 📊 O que foi desenvolvido:
+- **Limpeza de Dados:** Tratamento de status de pedidos usando `CASE WHEN`.
+- **Análise de Performance:** Cálculos de faturamento e ticket médio por categoria.
+- **Consultas Avançadas:** - Uso de **CTEs** para organizar cálculos de médias.
+  - Uso de **Window Functions (RANK)** para criar rankings de produtos por categoria.
+
+## 📈 Exemplo de Insight Gerado
+Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos" possui o maior ticket médio, sugerindo um foco maior em campanhas de marketing para esse setor.
