@@ -7,7 +7,7 @@ Este projeto simula uma análise de dados real, transformando dados brutos em in
 - SQL Server (T-SQL)
 - SSMS (SQL Server Management Studio)
 
-## 📊 O que foi desenvolvido:
+### 1. 📊 O que foi desenvolvido:
 - **Limpeza de Dados:** Tratamento de status de pedidos usando `CASE WHEN`.
 - **Análise de Performance:** Cálculos de faturamento e ticket médio por categoria.
 - **Consultas Avançadas:** - Uso de **CTEs** para organizar cálculos de médias.
@@ -19,4 +19,9 @@ Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos"
 
 <img width="1896" height="806" alt="Print do resultado" src="https://github.com/user-attachments/assets/3a71bc5b-4976-491d-8084-573a7308ddfa" />
 [Resultado do Ranking de Produtos]
+
+### 2. 📊 Visualização e Dashboards (Power BI)
+Com os dados tratados, desenvolvi um dashboard interativo para acompanhamento de KPIs.
+- **KPIs:** Faturamento Total, Ticket Médio, Total de Pedidos e % de Conversão.
+- **Gráficos:** Análise de faturamento por categoria e tendência mensal.
 
