@@ -1,4 +1,4 @@
-# Projeto: Análise de Vendas com SQL Server
+# Projeto: Análise de Vendas com SQL Server com Dashboard no Power BI
 
 ## 🎯 Objetivo
 Este projeto simula uma análise de dados real, transformando dados brutos em insights estratégicos para uma empresa de varejo.
@@ -24,4 +24,7 @@ Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos"
 Com os dados tratados, desenvolvi um dashboard interativo para acompanhamento de KPIs.
 - **KPIs:** Faturamento Total, Ticket Médio, Total de Pedidos e % de Conversão.
 - **Gráficos:** Análise de faturamento por categoria e tendência mensal.
+
+<img width="1301" height="732" alt="image" src="https://github.com/user-attachments/assets/c86dad78-61ff-47d9-9028-ba97d3ccb54b" />
+[Resultado do Dashboard no Power BI]
 
