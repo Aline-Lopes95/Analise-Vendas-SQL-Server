@@ -6,6 +6,7 @@ Este projeto simula uma análise de dados real, transformando dados brutos em in
 ## 🛠️ Ferramentas Utilizadas
 - SQL Server (T-SQL)
 - SSMS (SQL Server Management Studio)
+- Power BI
 
 ### 1. 📊 O que foi desenvolvido:
 - **Limpeza de Dados:** Tratamento de status de pedidos usando `CASE WHEN`.
