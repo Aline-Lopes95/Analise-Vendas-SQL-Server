@@ -17,5 +17,6 @@ Este projeto simula uma análise de dados real, transformando dados brutos em in
 Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos" possui o maior ticket médio, sugerindo um foco maior em campanhas de marketing para esse setor.
 
 
-![Resultado do Ranking de Produtos]<img width="1896" height="806" alt="Print do resultado" src="https://github.com/user-attachments/assets/3a71bc5b-4976-491d-8084-573a7308ddfa" />
+<img width="1896" height="806" alt="Print do resultado" src="https://github.com/user-attachments/assets/3a71bc5b-4976-491d-8084-573a7308ddfa" />
+[Resultado do Ranking de Produtos]
 
