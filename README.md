@@ -1,4 +1,6 @@
-# Projeto: Análise de Vendas com SQL Server com Dashboard no Power BI
+# Análise de Performance de Vendas: Dashboards Estratégicos com SQL Server e Power BI
+
+Transformação de dados brutos em insights estratégicos através de modelagem SQL e visualização avançada de KPIs
 
 ## 🎯 Objetivo
 Este projeto simula uma análise de dados real, transformando dados brutos em insights estratégicos para uma empresa de varejo.
