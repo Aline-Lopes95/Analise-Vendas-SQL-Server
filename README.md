@@ -22,7 +22,7 @@ Através da consulta de rankings, identifiquei que a categoria de "Eletrônicos"
 [Resultado do Ranking de Produtos]
 
 ### 2. 📊 Visualização e Dashboards (Power BI)
-Com os dados tratados, desenvolvi um dashboard interativo para acompanhamento de KPIs.
+Com os dados tratados, foi desenvolvido um dashboard interativo para acompanhamento de KPIs.
 - **KPIs:** Faturamento Total, Ticket Médio, Total de Pedidos e % de Conversão.
 - **Gráficos:** Análise de faturamento por categoria e tendência mensal.
 
